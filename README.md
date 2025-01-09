@@ -2,7 +2,9 @@
 
 GitHub repository of our ECIR-2024 reproducibility-track paper titled [Exploring the Nexus Between Retrievability and Query Generation Strategies](https://arxiv.org/abs/2404.09473). This repository serves as a resource for accessing the research paper, related code, and data.
 
-Simulated Queries : http://u.pc.cd/QjzrtalK
+## Reproducibility
+
+All data and codes submitted to ECIR : http://u.pc.cd/QjzrtalK
 
 ## Citation
 
